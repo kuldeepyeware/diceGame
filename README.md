@@ -5,7 +5,7 @@
   <p align="center">A Simple Dice game is created to learn about React and Tailwind CSS
     <br />
     <br />
-    <a href="">View Deployed Project</a>
+    <a href="https://dice-game-rosy-two.vercel.app/">View Deployed Project</a>
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 <img width="1434" alt="Demo WebPage" src="https://github.com/kuldeepyeware/kuldeepyeware/assets/83532405/b8047b17-6b3c-4922-b66c-17e27dd8bbc5">
 
 <br />
-This project was created as part of my journey to learn and explore the world of development using React and Tailwind CSS. The Dice game checks if your dice number and selected number is equal then the score get incremented or get decremented
+This project was created as part of my journey to learn and explore the world of development using React and Tailwind CSS. The Dice game checks if your dice number and selected number are equal then the score gets incremented or decremented
 
 <br />
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
